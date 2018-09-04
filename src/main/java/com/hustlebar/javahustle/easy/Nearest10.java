@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Find the nearest 10 divisible number
- * 
+ *
  * @author tham
  */
 public class Nearest10 {
