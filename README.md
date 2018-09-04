@@ -6,3 +6,7 @@ Learn Java through simple problems. The whole project is classified into 3 categ
 
 ## Easy
 - [x] Nearest 10 divisible number
+
+## Medium
+
+## Hard
