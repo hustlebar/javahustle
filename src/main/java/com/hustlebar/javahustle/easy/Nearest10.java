@@ -15,7 +15,9 @@ public class Nearest10 {
         }
 
         int reminder = given % 10;
-        if (reminder < 5) {
+        if (reminder == 0) {
+            System.out.println("The nearest 10 divisible number is: " + given);
+        } else if (reminder < 5) {
             System.out.println("The nearest 10 divisible number is: " + (given - reminder));
         } else if (reminder > 5) {
             System.out.println("The nearest 10 divisible number is: " + (given + (10 - reminder)));
